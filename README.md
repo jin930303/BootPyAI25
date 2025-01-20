@@ -21,7 +21,7 @@ FastAPI 와 ASGI
 *FastAPI 애플리케이션은 비동기 처리를 기본으로 하며, Uvicorn과 같은 ASGI 서버를 사용하여 높은 성능을 제공
 *FastAPI 서버 실행
 
-1.main.py 실행
+1.main.py 실행<br>
 2.Terminal에서 D:\pythonWorkSpace> uvicorn main:app --reload --port 8001 (위치확인)
 
 
