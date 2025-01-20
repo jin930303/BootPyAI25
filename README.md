@@ -23,3 +23,6 @@ FastAPI 와 ASGI
 
 1.main.py 실행
 2.Terminal에서 D:\pythonWorkSpace> uvicorn main:app --reload --port 8001 (위치확인)
+
+
+![image](https://github.com/user-attachments/assets/1c2eea7f-91e0-447f-9fc3-fc2ae7bcb3ca)
